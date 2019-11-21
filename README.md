@@ -23,31 +23,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept 2019 to Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Hitachi Capital Business Finance** (May 2018 to June 2019)    
+*Complaints Manager*  
+- Routinely carried out root cause analysis utilising SQL and VBA to access and combine a range of different data structures, including Oracle Databases, Excel and CSV files. 
+- Monthly generation of complaint data reports, conforming to rigid data structures and formats as laid out by internal stakeholders and the regulator, the Finacial Conduct Authority (FCA).
+- Key stakeholder within a group-wide project for the selection and implementation of new software suite for complaints and quality assurance.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Close Brothers Premium Finance** (April 2013 to February 2018)   
+*Complaints Manager*  
 - Any experience relevent to software development
 
 ## Hobbies

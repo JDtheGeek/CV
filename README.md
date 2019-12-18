@@ -1,6 +1,8 @@
 # John Dennehy
 
-When my wife told her friends I was leaving my job in the finance sector to learn to code, they were surprised, as they assumed I already worked in the tech industry. I have always loved technology, from my first computer (Amiga 500), to building my own PCs, and my first job teaching the elderly to use MS Office.
+When my wife told her friends I was leaving my job in the finance sector to learn to code, they were surprised, as they assumed I already worked in the tech industry. I've always loved exploring new technology since building my first PC in the 90s, to being an early adoptor of home automation and smart assistants.
+
+My previous career in financial services often found me going out of my way to learn new tools and technology to automate simple but time consuming daily tasks within my team. When I realised I enjoyed this aspect of my day far more than my *actual* job, I knew it was time for a career change, and decided to leave my job and apply for [Makers Academy](https://makers.tech/) coding bootcamp.  
 
 ## Projects
 | Project                                                                                                                             | Description                                                                                                                                        | Stack                                      | Testing & Integration | Try it out                                                         | Code                                            |

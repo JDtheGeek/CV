@@ -19,17 +19,17 @@ When my wife told her friends I was leaving my job in the finance sector to lear
 #### An Eye for Detail
 - Quick to spot small deviations in text that often go unnoticed. This skill was developed following years of proof-reading and fixing errors as part of my previous career, and has been instrumental while pairing or supporting colleagues to find bugs in their code during projects.
 
-## Education
+## Experience
 
-#### Makers Academy (Sep 2019 to Dec 2019)
+### Training
+**Makers Academy** (Sep 2019 to Dec 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-## Experience
-
+### Employment
 **Hitachi Capital Business Finance** (May 2018 to Jun 2019)
 *Complaints Manager*
 - Responsible for gathering and root cause analysis of customer complaint data, utilising SQL and VBA to access and combine a range of different data structures, including Oracle Databases, Excel and CSV files.

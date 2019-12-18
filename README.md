@@ -1,6 +1,6 @@
 # John Dennehy
 
-When my wife told her friends I was leaving my job in the finance sector to learn to code, they were surprised, as they assumed I already worked in the tech industry. I've always loved exploring new technology since I was a child writing simple programs on a BBC Basic, building myself a new PC as a teenager, to being an early adoptor of home automation and smart assistants as an adult.
+When my wife told her friends I was leaving my job in the finance sector to learn to code, they were surprised, as they assumed I already worked in the tech industry. I've always loved exploring new technology since I was a child writing simple programs on a [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), building myself a new PC as a teenager, to being an early adoptor of home automation and smart assistants as an adult.
 
 My previous career in financial services often found me going out of my way to learn new tools and technology to automate simple but time consuming daily tasks within my team. When I realised I enjoyed this aspect of my day far more than my *actual* job, I knew it was time for a career change, and decided to leave my job and apply for [Makers Academy](https://makers.tech/) coding bootcamp.  
 

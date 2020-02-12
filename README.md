@@ -1,4 +1,29 @@
-# John Dennehy
+<h1 align="center">
+  <a  href="https://www.jdthegeek.com">
+    <img src="./images/John Dennehy.svg?sanitize=true" Width="400" alt="John Dennehy"/>
+  </a>
+</h1>
+  <p align="center">
+    <a  href="https://www.linkedin.com/johnfdennehy">
+      <img src="./images/linkedin.svg?sanitize=true" alt="Linkedin logo" hspace="50" height="42" width="42"/>
+    </a>
+    <a  href="https://www.github.com/jdthegeek">
+      <img src="./images/github.svg?sanitize=true" alt="Github logo" hspace="50" height="42" width="42" />
+    </a>
+    <a  href="mailto:hello@jdthegeek.com">
+      <img src="./images/email.svg?sanitize=true" alt="Email Icon" hspace="50" height="42" width="42"/>
+    </a>
+  </p>
+
+<p align="center">
+  <a href="#overview">Overview</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#interests">Interests</a>
+</p>
+
+## Overview
 
 When my wife told her friends I was leaving my job in the finance sector to learn to code, they were surprised, as they assumed I already worked in the tech industry. I've always loved exploring new technology since I was a child writing simple programs on a [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), building myself a new PC as a teenager, to being an early adoptor of home automation and smart assistants as an adult.
 

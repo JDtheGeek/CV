@@ -49,15 +49,20 @@ My previous career in financial services often found me going out of my way to l
 
 ## Experience
 
-### Training
-**Makers Academy** (Sep 2019 to Dec 2019)
+**<a  href="https://www.avadolearning.com/"> Avado Learning </a>** (Mar 2020 to Present)
+*Junior Frontend Developer*
+- Primary tools: React.js, Scss, Typescript, MobX, Postgres, HTML/CSS
+- Researched, implemented and advocated for a component library and TDD process using Storybook.js and React-testing-library
+- Championed the switch to Typescript, and supported colleagues with the trantransition by providing Knowledge sharing sessions and documentation.
 
+
+**<a href="https://makers.tech/"> Makers Academy </a>** (Sep 2019 to Dec 2019)
+*Fulltime Student*
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-### Employment
 **Hitachi Capital Business Finance** (May 2018 to Jun 2019)
 *Complaints Manager*
 - Responsible for gathering and root cause analysis of customer complaint data, utilising SQL and VBA to access and combine a range of different data structures, including Oracle Databases, Excel and CSV files.
